@@ -8,7 +8,7 @@
 
 ## 👋 Sobre mim
 
-Sou um profissional focado em segurança da informação, com mais de 6 anos de experiência atuando em **prevenção à fraude**, **inteligência contra ameaças digitais**, e **automação de processos críticos**. Ao longo da minha carreira, venho apoiando instituições financeiras no combate a ameaças digitais com soluções robustas e escaláveis, sempre guiado por normas como **NIST SP 800-63-3** e **ISO/IEC 30107-1:2023**.
+Sou um profissional focado em segurança da informação, com mais de 6 anos de experiência atuando em **prevenção à fraude**, **inteligência contra ameaças digitais**, e **automação de processos críticos**. Ao longo da minha carreira, venho apoiando instituições financeiras no combate a ameaças digitais com soluções robustas e escaláveis.
 
 Meu objetivo é construir soluções que antecipem ameaças e agreguem valor real ao negócio. Gosto de unir **visão analítica, inovação tecnológica e propósito**.
 
