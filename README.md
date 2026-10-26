@@ -113,8 +113,8 @@ Estou aberto a colaborações em projetos relacionados a:
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luizqueiroz-br&show_icons=true&hide_border=true&include_all_commits=true&locale=pt-br&bg_color=0D1117&title_color=E6EDF3&icon_color=58A6FF&text_color=8B949E" />
-        <img src="https://github-readme-stats.vercel.app/api?username=luizqueiroz-br&show_icons=true&hide_border=true&include_all_commits=true&locale=pt-br&theme=transparent" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luizqueiroz-br&show_icons=true&hide_border=true&locale=pt-br&bg_color=0D1117&title_color=E6EDF3&icon_color=58A6FF&text_color=8B949E" />
+        <img src="https://github-readme-stats.vercel.app/api?username=luizqueiroz-br&show_icons=true&hide_border=true&locale=pt-br&theme=transparent" />
       </picture>
     </td>
     <td>
