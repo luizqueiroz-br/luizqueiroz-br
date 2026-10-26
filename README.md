@@ -6,6 +6,41 @@
 
 ---
 
+## 🚀 Projetos em destaque
+
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=luizqueiroz-br&repo=wardriverm&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=58A6FF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizqueiroz-br&repo=wardriverm&hide_border=true&theme=transparent" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=luizqueiroz-br&repo=FT3view&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=58A6FF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizqueiroz-br&repo=FT3view&hide_border=true&theme=transparent" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=luizqueiroz-br&repo=pwndroid&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=58A6FF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizqueiroz-br&repo=pwndroid&hide_border=true&theme=transparent" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=luizqueiroz-br&repo=pwnagotchi&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=58A6FF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizqueiroz-br&repo=pwnagotchi&hide_border=true&theme=transparent" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 👋 Sobre mim
 
 Sou um profissional de segurança da informação com mais de **9 anos** na linha de frente da defesa cibernética, prevenção a fraudes corporativas e combate a crimes digitais, em ambientes corporativos e financeiros de alta criticidade. Atuo em múltiplas esferas defensivas e investigativas — **Blue Team**, **Forense Digital** (coleta e preservação de evidências em ativos comprometidos), **resposta a incidentes**, **Threat Intelligence**, segurança de redes e infraestrutura — combinando engenharia de detecção, automação analítica e desenvolvimento de soluções escaláveis orientadas a dados.
@@ -69,6 +104,46 @@ Estou aberto a colaborações em projetos relacionados a:
 - Forense digital, resposta a incidentes e Blue Team  
 - Biometria facial e detecção de ataques (PAD)  
 - Automação de processos de segurança
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luizqueiroz-br&show_icons=true&hide_border=true&include_all_commits=true&locale=pt-br&bg_color=0D1117&title_color=E6EDF3&icon_color=58A6FF&text_color=8B949E" />
+        <img src="https://github-readme-stats.vercel.app/api?username=luizqueiroz-br&show_icons=true&hide_border=true&include_all_commits=true&locale=pt-br&theme=transparent" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizqueiroz-br&layout=compact&hide_border=true&locale=pt-br&langs_count=10&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizqueiroz-br&layout=compact&hide_border=true&locale=pt-br&langs_count=10&theme=transparent" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizqueiroz-br&theme=github_dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizqueiroz-br&theme=github" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizqueiroz-br&theme=github_dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizqueiroz-br&theme=github" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=luizqueiroz-br&hide_border=true&background=00000000&ring=974BE0&fire=E8590C&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=974BE0&sideLabels=58A6FF&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com?user=luizqueiroz-br&hide_border=true&background=00000000&ring=7015D6&fire=E8590C&currStreakNum=24292F&sideNums=24292F&currStreakLabel=8250DF&sideLabels=0969DA&dates=57606A" />
+</picture>
 
 ---
 
